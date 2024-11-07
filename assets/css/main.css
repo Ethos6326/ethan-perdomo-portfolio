@@ -3025,10 +3025,10 @@ input, select, textarea {
 				transition: transform 0.5s ease;
 				display: block;
 				height: 44px;
-				left: 0;
+				left: 10%;
 				position: fixed;
 				top: 0;
-				width: 100%;
+				width: 80%;
 				z-index: 10001;
 				background: #222;
 				color: #fff;
